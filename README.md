@@ -14,7 +14,6 @@ I recently rediscovered this project on my hard disk drive, a nostalgic find fro
 ## How to Play
 1. Run the executable file or compile the source code to launch the game.
 2. Take turns moving chess pieces according to standard rules.
-3. The game enforces legal moves and adheres to classic chess conventions.
 
 ## Getting Started
 1. Clone the repository or download the source code.
